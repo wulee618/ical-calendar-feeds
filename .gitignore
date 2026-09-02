@@ -1,1 +1,7 @@
 .DS_Store
+
+# Not deployed: GitHub Pages is public even on a private repo, so a listing
+# page would leak every random filename. Keep these local-only for reference.
+manifest.json
+index.html
+calendars/LOCAL_NOTES.md
